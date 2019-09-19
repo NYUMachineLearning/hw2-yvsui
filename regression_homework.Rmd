@@ -161,7 +161,7 @@ This is the data we will fit a linear model to.
 
 ### Linear Regression with Regularization
 
-5. Create a linear model using L1 or L2 regularization to predict Temperature from Wind and Month variables.  
+5. Create a linear model using L1 or L2 regularization to predict Temperature from Wind and Month variables. Plot your predicted values and the real Y values on the same plot. 
 
 
 
