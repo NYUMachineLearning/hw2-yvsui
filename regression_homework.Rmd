@@ -134,7 +134,7 @@ This is the data we will fit a linear model to.
 
 ```
 
-4 d) Visualize the regression line in relation to the read data points. Look for homoscedasticity
+4 d) Visualize the predicted values in relation to the read data points. Look for homoscedasticity
 ```{r}
 # Extract coefficients from the model
 
